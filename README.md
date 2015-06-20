@@ -1,4 +1,4 @@
-This repo contains 3 files
+This repo contains following files
 
 run_analysis.R - The script function which converts given data set to tidy data set.
 
